@@ -1,0 +1,11 @@
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\MainWindow.baml
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\PresenceControl.baml
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\MainWindow.g.cs
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\PresenceControl.g.cs
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\App.g.cs
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\Kinect.Toolbox.Properties.Resources.resources
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\obj\Debug\Kinect.Toolbox.csproj.GenerateResource.Cache
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\Kinect.Toolbox\bin\Debug\Kinect.Toolbox.exe.config

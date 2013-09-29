@@ -1,0 +1,13 @@
+c:\users\diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\bin\Debug\KinectAppExample.exe.config
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\bin\Debug\KinectAppExample.exe
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\bin\Debug\KinectAppExample.pdb
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\KinectAppExample.csprojResolveAssemblyReference.cache
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\MainWindow.baml
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\MainWindow.g.cs
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\App.g.cs
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\KinectAppExample_MarkupCompile.cache
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\KinectAppExample.g.resources
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\KinectAppExample.Properties.Resources.resources
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\KinectAppExample.csproj.GenerateResource.Cache
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\KinectAppExample.exe
+C:\Users\Diego\documents\visual studio 2012\Projects\KinectAppExample\KinectAppExample\obj\Debug\KinectAppExample.pdb
